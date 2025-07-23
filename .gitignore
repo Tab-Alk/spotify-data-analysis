@@ -99,3 +99,6 @@ ENV/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# ML model files
+analysis_ml.py

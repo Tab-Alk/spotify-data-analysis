@@ -141,4 +141,3 @@ scipy>=1.9.0  # for statistical testing
 
 ---
 
-*This analysis demonstrates that while measurement paradigms evolve, the fundamental statistical properties of hit song success remain consistent—providing a robust framework for predictive modeling in the streaming era.*
